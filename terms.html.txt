@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Terms of Use — Resolvr</title>
+<style>
+  :root { color-scheme: dark; }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", system-ui, sans-serif;
+    background: #0a0a0a;
+    color: #fff;
+    line-height: 1.6;
+    padding: 40px 24px 80px;
+  }
+  .wrap { max-width: 720px; margin: 0 auto; }
+  a.back { color: #5acfff; text-decoration: none; font-size: 14px; }
+  h1 { font-size: 36px; font-weight: 800; letter-spacing: -0.02em; margin: 24px 0 8px; }
+  .updated { color: rgba(255,255,255,0.5); font-size: 14px; margin-bottom: 32px; }
+  h2 { font-size: 20px; font-weight: 700; margin: 32px 0 12px; color: #d4ff5a; }
+  p, li { color: rgba(255,255,255,0.8); margin-bottom: 12px; }
+  ul { padding-left: 22px; }
+  a { color: #5acfff; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <a class="back" href="index.html">← Resolvr</a>
+  <h1>Terms of Use (EULA)</h1>
+  <p class="updated">Last updated: May 16, 2026</p>
+
+  <p>By downloading or using Resolvr, you agree to these Terms of Use.</p>
+
+  <h2>License</h2>
+  <p>Resolvr grants you a personal, non-transferable license to use the app on Apple devices you own or control, in accordance with the Apple Media Services Terms.</p>
+
+  <h2>Subscriptions (Resolvr Pro)</h2>
+  <ul>
+    <li><strong>Resolvr Pro Monthly</strong> — auto-renewing subscription, billed monthly at the price displayed in the app.</li>
+    <li><strong>Resolvr Pro Yearly</strong> — auto-renewing subscription, billed yearly at the price displayed in the app.</li>
+    <li>Payment is charged to your Apple ID at confirmation of purchase.</li>
+    <li>Subscriptions renew automatically unless canceled at least 24 hours before the end of the current period.</li>
+    <li>You can manage or cancel subscriptions in your Apple ID account settings.</li>
+    <li>Free trials, if offered, automatically convert to paid subscriptions unless canceled before the trial ends.</li>
+  </ul>
+
+  <h2>Guidance, Not Advice</h2>
+  <p>Resolvr provides decision-making guidance for entertainment and personal reflection. It is <strong>not</strong> professional advice (medical, legal, financial, or otherwise). For important decisions, consult a qualified professional.</p>
+
+  <h2>Acceptable Use</h2>
+  <p>Do not use Resolvr for unlawful purposes, to harm others, or to generate harmful content. We may restrict access if these terms are violated.</p>
+
+  <h2>Disclaimer of Warranties</h2>
+  <p>Resolvr is provided "as is" without warranties of any kind. We do not guarantee accuracy, availability, or fitness for a particular purpose.</p>
+
+  <h2>Limitation of Liability</h2>
+  <p>To the maximum extent permitted by law, we are not liable for any indirect, incidental, or consequential damages arising from your use of the app.</p>
+
+  <h2>Changes</h2>
+  <p>We may update these Terms from time to time. Continued use means you accept the updated Terms.</p>
+
+  <h2>Contact</h2>
+  <p>Questions? Email <a href="mailto:support@resolvr.ca">support@resolvr.ca</a></p>
+</div>
+</body>
+</html>

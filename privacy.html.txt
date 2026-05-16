@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Privacy Policy — Resolvr</title>
+<style>
+  :root { color-scheme: dark; }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", system-ui, sans-serif;
+    background: #0a0a0a;
+    color: #fff;
+    line-height: 1.6;
+    padding: 40px 24px 80px;
+  }
+  .wrap { max-width: 720px; margin: 0 auto; }
+  a.back { color: #5acfff; text-decoration: none; font-size: 14px; }
+  h1 { font-size: 36px; font-weight: 800; letter-spacing: -0.02em; margin: 24px 0 8px; }
+  .updated { color: rgba(255,255,255,0.5); font-size: 14px; margin-bottom: 32px; }
+  h2 { font-size: 20px; font-weight: 700; margin: 32px 0 12px; color: #d4ff5a; }
+  p, li { color: rgba(255,255,255,0.8); margin-bottom: 12px; }
+  ul { padding-left: 22px; }
+  a { color: #5acfff; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <a class="back" href="index.html">← Resolvr</a>
+  <h1>Privacy Policy</h1>
+  <p class="updated">Last updated: May 16, 2026</p>
+
+  <p>Resolvr ("we", "our", "the app") is designed with privacy in mind. This Privacy Policy explains what information the app handles and how.</p>
+
+  <h2>Information We Collect</h2>
+  <p>Resolvr does <strong>not</strong> require you to create an account. Your decision history, preferences, and settings are stored locally on your device.</p>
+  <ul>
+    <li><strong>Decision Inputs:</strong> The questions and options you enter are processed to generate guidance. When you use AI-powered features (Resolvr Insight, Refine), the text of your decision is sent securely to our AI processing provider to generate a response, and is not stored on our servers beyond the request.</li>
+    <li><strong>Subscription Data:</strong> If you purchase Resolvr Pro, subscription status is managed by Apple and RevenueCat. We do not see your payment information.</li>
+    <li><strong>Diagnostics:</strong> Apple may share anonymous crash diagnostics with us if you opt in via iOS Settings. This contains no personal data.</li>
+  </ul>
+
+  <h2>What We Don't Do</h2>
+  <ul>
+    <li>We do not sell your data.</li>
+    <li>We do not use third-party advertising trackers.</li>
+    <li>We do not build a profile of you.</li>
+    <li>We do not require sign-up or email.</li>
+  </ul>
+
+  <h2>Third-Party Services</h2>
+  <ul>
+    <li><strong>RevenueCat:</strong> Handles subscription receipts. See <a href="https://www.revenuecat.com/privacy">RevenueCat Privacy</a>.</li>
+    <li><strong>AI Provider:</strong> AI requests are routed through our secure proxy to generate guidance. Inputs are not retained for training.</li>
+    <li><strong>Apple:</strong> Subscriptions and IAP are processed by Apple.</li>
+  </ul>
+
+  <h2>Your Choices</h2>
+  <p>You can delete your local decision history at any time from within the app. Deleting the app removes all local data.</p>
+
+  <h2>Children</h2>
+  <p>Resolvr is not directed to children under 13. We do not knowingly collect personal information from children.</p>
+
+  <h2>Changes</h2>
+  <p>If we update this policy, we'll update the "Last updated" date above.</p>
+
+  <h2>Contact</h2>
+  <p>Questions? Email <a href="mailto:support@resolvr.ca">support@resolvr.ca</a></p>
+</div>
+</body>
+</html>

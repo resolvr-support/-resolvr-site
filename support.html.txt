@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Support — Resolvr</title>
+<style>
+  :root { color-scheme: dark; }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", system-ui, sans-serif;
+    background: #0a0a0a;
+    color: #fff;
+    line-height: 1.6;
+    padding: 40px 24px 80px;
+  }
+  .wrap { max-width: 720px; margin: 0 auto; }
+  a.back { color: #5acfff; text-decoration: none; font-size: 14px; }
+  h1 { font-size: 36px; font-weight: 800; letter-spacing: -0.02em; margin: 24px 0 8px; }
+  .lead { color: rgba(255,255,255,0.7); font-size: 17px; margin-bottom: 32px; }
+  h2 { font-size: 20px; font-weight: 700; margin: 32px 0 12px; color: #d4ff5a; }
+  p, li { color: rgba(255,255,255,0.8); margin-bottom: 12px; }
+  ul { padding-left: 22px; }
+  a { color: #5acfff; }
+  .contact {
+    display: inline-block;
+    margin-top: 12px;
+    padding: 14px 22px;
+    background: linear-gradient(135deg, #d4ff5a, #a8e63a);
+    color: #0a0a0a;
+    text-decoration: none;
+    border-radius: 12px;
+    font-weight: 700;
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <a class="back" href="index.html">← Resolvr</a>
+  <h1>Support</h1>
+  <p class="lead">Need help with Resolvr? We're here.</p>
+
+  <h2>Contact Us</h2>
+  <p>The fastest way to reach us is by email. We typically respond within 1–2 business days.</p>
+  <a class="contact" href="mailto:support@resolvr.ca">Email support@resolvr.ca</a>
+
+  <h2>Frequently Asked Questions</h2>
+
+  <h2 style="font-size:17px;color:#fff">How do I cancel my subscription?</h2>
+  <p>Open the iPhone <strong>Settings</strong> app → tap your name → <strong>Subscriptions</strong> → select Resolvr → <strong>Cancel Subscription</strong>.</p>
+
+  <h2 style="font-size:17px;color:#fff">How do I restore a previous purchase?</h2>
+  <p>Open Resolvr → Profile tab → tap <strong>Restore Purchases</strong> at the top of the paywall.</p>
+
+  <h2 style="font-size:17px;color:#fff">My AI insight isn't loading.</h2>
+  <p>Check your internet connection. If it persists, force-quit and reopen the app, or email us with the decision you were trying to make.</p>
+
+  <h2 style="font-size:17px;color:#fff">Is my data private?</h2>
+  <p>Yes. Your decisions are stored locally on your device. See our <a href="privacy.html">Privacy Policy</a> for details.</p>
+
+  <h2 style="font-size:17px;color:#fff">How do I delete my data?</h2>
+  <p>All data is stored locally. Delete the Resolvr app to remove everything.</p>
+
+  <h2>Legal</h2>
+  <ul>
+    <li><a href="privacy.html">Privacy Policy</a></li>
+    <li><a href="terms.html">Terms of Use (EULA)</a></li>
+  </ul>
+</div>
+</body>
+</html>

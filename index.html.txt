@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Resolvr — Stop Overthinking</title>
+<style>
+  :root { color-scheme: dark; }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", system-ui, sans-serif;
+    background: #0a0a0a;
+    color: #fff;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 24px;
+    background-image: radial-gradient(circle at 20% 20%, rgba(140, 255, 90, 0.12), transparent 40%),
+                      radial-gradient(circle at 80% 80%, rgba(90, 200, 255, 0.12), transparent 40%);
+  }
+  .wrap { max-width: 560px; text-align: center; }
+  h1 {
+    font-size: 56px;
+    font-weight: 800;
+    letter-spacing: -0.03em;
+    margin-bottom: 16px;
+    background: linear-gradient(135deg, #d4ff5a, #5acfff);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+  }
+  p.tag { font-size: 18px; color: rgba(255,255,255,0.7); margin-bottom: 40px; }
+  .links { display: flex; flex-direction: column; gap: 12px; }
+  a.card {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 18px 22px;
+    background: rgba(255,255,255,0.05);
+    border: 1px solid rgba(255,255,255,0.08);
+    border-radius: 16px;
+    color: #fff;
+    text-decoration: none;
+    font-weight: 500;
+    transition: background 0.15s ease;
+  }
+  a.card:hover { background: rgba(255,255,255,0.08); }
+  a.card::after { content: "→"; opacity: 0.5; }
+  footer { margin-top: 40px; font-size: 13px; color: rgba(255,255,255,0.4); }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <h1>Resolvr</h1>
+    <p class="tag">Stop overthinking. Decide with clarity.</p>
+    <div class="links">
+      <a class="card" href="privacy.html">Privacy Policy</a>
+      <a class="card" href="terms.html">Terms of Use (EULA)</a>
+      <a class="card" href="support.html">Support</a>
+    </div>
+    <footer>© 2026 Resolvr</footer>
+  </div>
+</body>
+</html>
